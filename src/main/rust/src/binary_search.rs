@@ -11,12 +11,12 @@ impl Solution {
         }
 
         let mut left = 0;
-        let mut right = length - 1;
+        let mut right = length as i32 - 1;
         while left <= right {
-            let mid = (right - left) / 2 + left;
-            let n = nums[mid];
+            let mid = left + (right - left) / 2;
+            let n = nums[mid as usize];
             if n == target {
-                return mid as i32;
+                return mid;
             } else if n < target {
                 left = mid + 1;
             } else {
@@ -43,5 +43,10 @@ mod tests {
         let nums = vec![-9, -1, 0, 3, 5, 9, 12];
 
         assert_eq!(Solution::search(nums, 13), -1);
+    }
+
+    #[test]
+    fn test_nums_len_eq_1() {
+        assert_eq!(Solution::search(vec![5], -5), -1);
     }
 }
