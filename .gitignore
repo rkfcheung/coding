@@ -1,3 +1,6 @@
 # Build Files
 target/
 Cargo.lock
+
+# Settings
+launch.json
