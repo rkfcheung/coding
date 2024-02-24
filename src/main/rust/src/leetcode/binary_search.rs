@@ -1,8 +1,8 @@
+use crate::Solution;
+
 /*
 704. Binary Search https://leetcode.com/problems/binary-search/
 */
-use crate::Solution;
-
 impl Solution {
     pub fn search(nums: Vec<i32>, target: i32) -> i32 {
         let length = nums.len();
@@ -28,6 +28,7 @@ impl Solution {
     }
 }
 
+#[cfg(test)]
 mod tests {
     use super::*;
 

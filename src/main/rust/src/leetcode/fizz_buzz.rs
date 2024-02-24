@@ -1,8 +1,8 @@
+use crate::Solution;
+
 /*
 412. Fizz Buzz https://leetcode.com/problems/fizz-buzz/
 */
-use crate::Solution;
-
 impl Solution {
     pub fn fizz_buzz(n: i32) -> Vec<String> {
         let mut result = Vec::new();
