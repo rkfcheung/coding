@@ -3,4 +3,6 @@ target/
 Cargo.lock
 
 # Settings
+.idea/
+.vscode/
 launch.json
