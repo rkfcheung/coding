@@ -1,4 +1,5 @@
-pub mod binary_search;
-pub mod fizz_buzz;
-pub mod reverse_string;
-pub mod valid_palindrome;
+mod binary_search;
+mod fizz_buzz;
+mod reverse_string;
+mod two_sum;
+mod valid_palindrome;

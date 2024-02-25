@@ -1,4 +1,4 @@
-pub mod leetcode;
+mod leetcode;
 
 struct Solution {
 }
