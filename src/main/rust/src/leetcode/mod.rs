@@ -3,6 +3,7 @@ mod fizz_buzz;
 mod palindrome_number;
 mod reverse_integer;
 mod reverse_string;
+mod roman_to_integer;
 mod two_sum;
 mod valid_palindrome;
 mod valid_parentheses;
