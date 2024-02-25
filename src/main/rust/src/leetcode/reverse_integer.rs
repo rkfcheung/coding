@@ -22,6 +22,24 @@ impl Solution {
 
         rev
     }
+
+    pub fn reverse_to_string(x: i32) -> i32 {
+        if x.checked_abs() == None {
+            return 0;
+        }
+
+        let signed = if x < 0 {
+            "-"
+        } else {
+            ""
+        }.to_string();
+        let rev_str: String = x.abs().to_string().chars().rev().collect();
+
+        match (signed + &rev_str).parse::<i32>() {
+            Ok(n) => { n }
+            _ => 0
+        }
+    }
 }
 
 #[cfg(test)]
@@ -31,8 +49,15 @@ mod tests {
     #[test]
     fn test_reverse() {
         assert_eq!(Solution::reverse(123), 321);
+        assert_eq!(Solution::reverse_to_string(123), 321);
+
         assert_eq!(Solution::reverse(-123), -321);
+        assert_eq!(Solution::reverse_to_string(-123), -321);
+
         assert_eq!(Solution::reverse(120), 21);
+        assert_eq!(Solution::reverse_to_string(120), 21);
+
         assert_eq!(Solution::reverse(1534236469), 0);
+        assert_eq!(Solution::reverse_to_string(1534236469), 0);
     }
 }
