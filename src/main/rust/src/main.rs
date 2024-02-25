@@ -1,7 +1,6 @@
 mod leetcode;
 
-struct Solution {
-}
+struct Solution {}
 
 fn main() {
     println!("Hello, world!");

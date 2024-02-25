@@ -19,7 +19,7 @@ impl Solution {
                 }
             );
         };
-        
+
         result
     }
 
