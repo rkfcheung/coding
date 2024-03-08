@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class MergeTwoSortedListsTest {
 
-    MergeTwoSortedLists solution = new MergeTwoSortedLists();
+    private final MergeTwoSortedLists solution = new MergeTwoSortedLists();
 
     @Test
     void should_merge_two_lists() {

@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class RemoveNthFromEndTest {
 
-    RemoveNthFromEnd solution = new RemoveNthFromEnd();
+    private final RemoveNthFromEnd solution = new RemoveNthFromEnd();
 
     @Test
     void should_remove_nth_from_end() {
