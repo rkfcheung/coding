@@ -22,23 +22,27 @@ public class ValidSudoku {
         for (int row = 0; row < board.length; row++) {
             Set<Character> rowSeen = new HashSet<>();
             for (int col = 0; col < board[row].length; col++) {
-                char c = board[row][col];
-                if (c != '.' && rowSeen.contains(c)) {
-                    return false;
-                }
-                rowSeen.add(c);
-
-                Set<Character> colSeen = colsSeen.get(col);
-                if (c != '.' && colSeen.contains(c)) {
-                    return false;
-                }
-                colSeen.add(c);
-
                 if (row % 3 == 0 && col % 3 == 0) {
                     if (!validSubBox(board, row, col)) {
                         return false;
                     }
                 }
+
+                char c = board[row][col];
+                if (c == '.') {
+                    continue;
+                }
+
+                if (rowSeen.contains(c)) {
+                    return false;
+                }
+                rowSeen.add(c);
+
+                Set<Character> colSeen = colsSeen.get(col);
+                if (colSeen.contains(c)) {
+                    return false;
+                }
+                colSeen.add(c);
             }
         }
 
@@ -50,7 +54,11 @@ public class ValidSudoku {
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 char c = board[row + i][col + j];
-                if (c != '.' && seen.contains(c)) {
+                if (c == '.') {
+                    continue;
+                }
+
+                if (seen.contains(c)) {
                     return false;
                 }
                 seen.add(c);
