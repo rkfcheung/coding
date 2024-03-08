@@ -6,12 +6,12 @@ I code, therefore I’m.
 
 - Proficient in Java development, with over 15 years of experience in asset management and investment banking.
 - Skilled in developing scalable solutions for equity derivatives trading.
-- Utilise Spring Boot, Spring Data, and Spring Batch to develop robust REST APIs and efficient data pipelines.
+- Utilised Spring Boot, Spring Data, and Spring Batch to develop robust REST APIs and efficient data pipelines.
 
 ## Kotlin
 
 - Experienced in Kotlin development, particularly in building new features and applications for trade capture systems in the financial industry.
-- Develop various asynchronous applications using Apache QPID, JMS, and Microsoft Bot for messaging capture.
+- Developed various asynchronous applications using Apache QPID, JMS, and Microsoft Bot for messaging capture.
 
 ## Python
 
