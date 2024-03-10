@@ -1,7 +1,7 @@
 package com.rkfcheung.codility;
 
 /*
-3. Odd Occurrences In Array https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/
+Odd Occurrences In Array https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/
 */
 public class OddOccurrencesInArray {
     public int solution(int[] A) {

@@ -1,7 +1,7 @@
 package com.rkfcheung.codility;
 
 /*
-1. Binary Gap https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
+Binary Gap https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
 */
 public class BinaryGap {
     public int solution(int N) {

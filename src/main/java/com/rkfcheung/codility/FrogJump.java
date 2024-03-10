@@ -1,7 +1,7 @@
 package com.rkfcheung.codility;
 
 /*
-4. Frog Jump https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/
+Frog Jump https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/
 */
 public class FrogJump {
     public int solution(int X, int Y, int D) {

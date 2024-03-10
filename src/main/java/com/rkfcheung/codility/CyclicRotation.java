@@ -1,7 +1,7 @@
 package com.rkfcheung.codility;
 
 /*
-2. Cyclic Rotation https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/
+Cyclic Rotation https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/
 */
 public class CyclicRotation {
     public int[] solution(int[] A, int K) {
