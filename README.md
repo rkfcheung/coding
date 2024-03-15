@@ -2,6 +2,8 @@
 
 I code, therefore I’m.
 
+[Here](https://gitlab.com/rkfcheung) is another repo at GitLab.
+
 ## Java
 
 - Proficient in Java development, with over 15 years of experience in asset management and investment banking.
