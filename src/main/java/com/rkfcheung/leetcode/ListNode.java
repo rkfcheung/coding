@@ -37,7 +37,9 @@ public class ListNode {
 
     @Override
     public String toString() {
-        return value + "," + Optional.ofNullable(next).map(ListNode::toString).orElse("");
+        var nextValue = Optional.ofNullable(next).map(ListNode::toString).orElse("");
+
+        return value + (nextValue.isBlank() ? "" : ",") + nextValue;
     }
 
     @Override
