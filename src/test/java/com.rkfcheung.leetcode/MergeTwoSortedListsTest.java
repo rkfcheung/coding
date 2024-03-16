@@ -15,13 +15,13 @@ class MergeTwoSortedListsTest {
 
         ListNode merged = solution.mergeTwoLists(list1, list2);
 
-        assertEquals("1,1,2,3,4,4,", merged.toString());
+        assertEquals(ListNode.of("1,1,2,3,4,4"), merged);
     }
 
     @Test
     void should_merge_with_empty_links() {
         assertNull(solution.mergeTwoLists(null, null));
 
-        assertEquals("2,", solution.mergeTwoLists(null, new ListNode(2)).toString());
+        assertEquals(ListNode.of("2"), solution.mergeTwoLists(null, new ListNode(2)));
     }
 }

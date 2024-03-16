@@ -19,15 +19,15 @@ class RemoveNthFromEndTest {
 
         ListNode removed = solution.removeNthFromEnd(head, 2);
 
-        assertEquals("1,2,3,5,", removed.toString());
+        assertEquals(ListNode.of("1,2,3,5,"), removed);
     }
 
     @Test
     void should_remove_singe_value() {
         assertNull(solution.removeNthFromEnd(new ListNode(1), 1));
 
-        assertEquals("1,", solution.removeNthFromEnd(new ListNode(1, new ListNode(2)), 1).toString());
+        assertEquals(new ListNode(1), solution.removeNthFromEnd(new ListNode(1, new ListNode(2)), 1));
 
-        assertEquals("2,", solution.removeNthFromEnd(new ListNode(1, new ListNode(2)), 2).toString());
+        assertEquals(new ListNode(2), solution.removeNthFromEnd(new ListNode(1, new ListNode(2)), 2));
     }
 }

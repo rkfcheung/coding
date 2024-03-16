@@ -17,8 +17,8 @@ public class MergeTwoSortedLists {
         ListNode head = new ListNode();
         ListNode dummy = head;
         while (list1 != null && list2 != null) {
-            int v1 = list1.val;
-            int v2 = list2.val;
+            int v1 = list1.value;
+            int v2 = list2.value;
             if (v1 < v2) {
                 head.next = list1;
                 list1 = list1.next;
