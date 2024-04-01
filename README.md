@@ -18,6 +18,7 @@ I code, therefore I’m.
 - Experienced in Kotlin development, particularly in building new features and applications for trade capture systems in the financial industry.
 - Developed various asynchronous applications using Apache QPID, JMS, and Microsoft Bot for messaging capture.
 - Sample Projects:
+    * [Quote Engine](https://gitlab.com/rkfcheung/quote-engine)
     * [Reactive Hello World](https://github.com/rkfcheung/reactive-hello)
     * [Contact Manger](https://github.com/rkfcheung/kotlin-contact-manager)
 
