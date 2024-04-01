@@ -12,6 +12,8 @@ I code, therefore I’m.
 - Sample Projects:
     * [Simple Order Book](https://gitlab.com/rkfcheung/simple-order-book)
     * [Word Counter](https://github.com/rkfcheung/word-counter-java)
+    * [Codility Questions](https://github.com/rkfcheung/coding/tree/main/src/main/java/com/rkfcheung/codility)
+    * [LeetCode Questions](https://github.com/rkfcheung/coding/tree/main/src/main/java/com/rkfcheung/leetcode)
 
 ## Kotlin
 
@@ -21,6 +23,7 @@ I code, therefore I’m.
     * [Quote Engine](https://gitlab.com/rkfcheung/quote-engine)
     * [Reactive Hello World](https://github.com/rkfcheung/reactive-hello)
     * [Contact Manger](https://github.com/rkfcheung/kotlin-contact-manager)
+    * [LeetCode Questions](https://github.com/rkfcheung/coding/tree/main/src/main/kotlin/com/rkfcheung/leetcode)
 
 ## Python
 
@@ -38,3 +41,5 @@ I code, therefore I’m.
 ## Rust
 
 - Eager to learn Rust as a new coding skill.
+- Sample Project:
+    * [LeetCode Questions](https://github.com/rkfcheung/coding/tree/main/src/main/rust/src/leetcode)
