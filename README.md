@@ -29,8 +29,9 @@ I code, therefore I’m.
 
 - Possess a solid understanding of Python, utilised for various tasks including risk pricing applications, calibration of forex volatility surfaces, and automation of workflows for traders.
 - Successfully delivered chatbots and anti-spam filters to improve efficiency.
-- Sample Project:
+- Sample Projects:
     * [Python Order Book](https://gitlab.com/rkfcheung/python-order-book)
+    * [Hello Web3](https://github.com/rkfcheung/hello-web3)
 
 ## C#
 
