@@ -47,33 +47,37 @@ I code, therefore I’m.
 
 - Eager to learn Rust as a new coding skill.
 - Sample Project:
-    * [LeetCode Questions](https://github.com/rkfcheung/coding/tree/main/src/main/rust/src/leetcode)
+  * [LeetCode Questions](https://github.com/rkfcheung/coding/tree/main/src/main/rust/src/leetcode)
+
+## Solidity
+
+- Learn Solidity and Web3 at [Alchemy University](https://www.alchemy.com/university/courses).
 
 ## Language Timeline
 
-| Year | HTML/CSS | JavaScript | PHP | ActionScript | C   | Java | C#  | ColdFusion | VB.NET/VBA | C++ | Python | ObjectiveC | Swift | Lua | MatLab | R   | Kotlin | Rust | Solidity | 
-|------|----------|------------|-----|--------------|-----|------|-----|------------|------------|-----|--------|------------|-------|-----|--------|-----|--------|------|----------|
-| 2001 | x        | x          | x   | x            | x   | x    |     |            |            |     |        |            |       |     |        |     |        |      |          |
-| 2002 | x        | x          | x   | x            | x   | x    |     |            | x          | x   |        |            |       |     |        |     |        |      |          |
-| 2003 | x        | x          | x   | x            | x   | x    |     |            | x          | x   |        |            |       |     |        |     |        |      |          |
-| 2004 | x        | x          | x   | x            | x   | x    |     |            |            |     |        |            |       |     | x      |     |        |      |          |
-| 2005 | x        | x          | x   | x            | x   |      |     |            |            |     |        |            |       |     | x      |     |        |      |          |
-| 2006 | x        | x          | x   | x            | x   | x    |     |            |            |     |        |            |       |     |        |     |        |      |          |
-| 2007 | x        | x          | x   | x            |     | x    | x   |            |            |     |        |            |       |     |        |     |        |      |          |
-| 2008 | x        | x (jQuery) | x   | x            |     |      | x   | x          | x          | x   | x      |            |       |     |        |     |        |      |          |
-| 2009 | x        | x (jQuery) | x   | x            |     |      | x   | x          | x          |     | x      |            |       |     |        |     |        |      |          |
-| 2010 | x        | x (jQuery) | x   | x            |     |      | x   | x          | x          |     | x      |            |       |     |        |     |        |      |          |
-| 2011 | x        | x (jQuery) | x   | x            |     |      | x   | x          | x          |     | x      | x          |       |     |        |     |        |      |          |
-| 2012 | x        | x (jQuery) | x   |              |     |      | x   | x          | x          |     | x      | x          |       |     | x      | x   |        |      |          |
-| 2013 | x        | x (jQuery) | x   |              |     |      | x   | x          | x          |     |        | x          |       |     | x      | x   |        |      |          |
-| 2014 | x        | x (jQuery) | x   |              |     | x    | x   | x          | x          |     |        | x          | x     |     | x      | x   |        |      |          |
-| 2015 | x        | x (jQuery) | x   |              |     | x    |     | x          | x          |     |        |            |       |     |        |     |        |      |          |
-| 2016 | x        | x (jQuery) | x   |              |     | x    |     | x          |            |     |        |            |       | x   |        |     |        |      |          |
-| 2017 |          | x (jQuery) | x   |              |     | x    | x   |            |            |     |        |            |       | x   |        |     |        |      |          |
-| 2018 |          |            |     |              |     | x    | x   |            | x          |     | x      |            |       | x   |        | x   |        |      |          |
-| 2019 |          |            |     |              |     | x    | x   |            | x          |     | x      |            |       |     |        |     | x      |      |          |
-| 2020 |          |            |     |              |     | x    | x   |            | x          |     | x      |            |       |     |        |     | x      |      |          |
-| 2021 |          | x (React)  |     |              |     | x    |     |            |            |     | x      |            |       |     |        |     | x      |      |          |
-| 2022 |          | x (React)  |     |              |     | x    |     |            |            |     | x      |            |       |     |        |     | x      |      |          |
-| 2023 |          |            |     |              |     | x    |     |            |            |     | x      |            |       |     |        |     | x      |      |          |
-| 2024 |          |            |     |              |     | x    |     |            |            |     | x      |            |       |     |        |     | x      | x    | x        |
+| Year | HTML/CSS | JavaScript | PHP | ActionScript | C   | Java | VB.NET/VBA | C++ | MatLab | C#  | ColdFusion | Python | ObjectiveC | R   | Swift | Lua | Kotlin | Rust | Solidity | 
+|------|----------|------------|-----|--------------|-----|------|------------|-----|--------|-----|------------|--------|------------|-----|-------|-----|--------|------|----------|
+| 2001 | x        | x          | x   | x            | x   | x    |            |     |        |     |            |        |            |     |       |     |        |      |          |
+| 2002 | x        | x          | x   | x            | x   | x    | x          | x   |        |     |            |        |            |     |       |     |        |      |          |
+| 2003 | x        | x          | x   | x            | x   | x    | x          | x   |        |     |            |        |            |     |       |     |        |      |          |
+| 2004 | x        | x          | x   | x            | x   | x    |            |     | x      |     |            |        |            |     |       |     |        |      |          |
+| 2005 | x        | x          | x   | x            | x   |      |            | x   | x      |     |            |        |            |     |       |     |        |      |          |
+| 2006 | x        | x          | x   | x            | x   | x    |            |     |        |     |            |        |            |     |       |     |        |      |          |
+| 2007 | x        | x          | x   | x            |     | x    |            |     |        | x   |            |        |            |     |       |     |        |      |          |
+| 2008 | x        | x (jQuery) | x   | x            |     |      | x          | x   |        | x   | x          | x      |            |     |       |     |        |      |          |
+| 2009 | x        | x (jQuery) | x   | x            |     |      | x          |     |        | x   | x          | x      |            |     |       |     |        |      |          |
+| 2010 | x        | x (jQuery) | x   | x            |     |      | x          |     |        | x   | x          | x      |            |     |       |     |        |      |          |
+| 2011 | x        | x (jQuery) | x   | x            |     |      | x          |     |        | x   | x          | x      | x          |     |       |     |        |      |          |
+| 2012 | x        | x (jQuery) | x   |              |     |      | x          |     | x      | x   | x          | x      | x          | x   |       |     |        |      |          |
+| 2013 | x        | x (jQuery) | x   |              |     |      | x          |     | x      | x   | x          |        | x          | x   |       |     |        |      |          |
+| 2014 | x        | x (jQuery) | x   |              |     | x    | x          |     | x      | x   | x          |        | x          | x   | x     |     |        |      |          |
+| 2015 | x        | x (jQuery) | x   |              |     | x    | x          |     |        |     | x          |        |            |     |       |     |        |      |          |
+| 2016 | x        | x (jQuery) | x   |              |     | x    |            |     |        |     | x          |        |            |     |       | x   |        |      |          |
+| 2017 |          | x (jQuery) | x   |              |     | x    |            |     |        | x   |            |        |            |     |       | x   |        |      |          |
+| 2018 |          |            |     |              |     | x    | x          |     |        | x   |            | x      |            | x   |       | x   |        |      |          |
+| 2019 |          |            |     |              |     | x    | x          |     |        | x   |            | x      |            |     |       |     | x      |      |          |
+| 2020 |          |            |     |              |     | x    | x          |     |        | x   |            | x      |            |     |       |     | x      |      |          |
+| 2021 |          | x (React)  |     |              |     | x    |            |     |        |     |            | x      |            |     |       |     | x      |      |          |
+| 2022 |          | x (React)  |     |              |     | x    |            |     |        |     |            | x      |            |     |       |     | x      |      |          |
+| 2023 |          |            |     |              |     | x    |            |     |        |     |            | x      |            |     |       |     | x      |      |          |
+| 2024 |          |            |     |              |     | x    |            |     |        |     |            | x      |            |     |       |     | x      | x    | x        |
