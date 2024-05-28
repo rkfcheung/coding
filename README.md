@@ -80,4 +80,4 @@ I code, therefore I’m.
 | 2021 |          | x (React)  |     |              |     | x    | x (Bash)       | x (PostgreSQL)   |             |     |        |     |            | x      |            |     |       |     | x      |      |          |
 | 2022 |          | x (React)  |     |              |     | x    | x (Bash)       | x (PostgreSQL)   |             |     |        |     |            | x      |            |     |       |     | x      |      |          |
 | 2023 |          |            |     |              |     | x    | x (Bash)       | x (Oracle)       |             |     |        |     |            | x      |            |     |       |     | x      |      |          |
-| 2024 |          |            |     |              |     | x    | x (Bash)       | x (Oracle)       |             |     |        |     |            | x      |            |     |       |     | x      | x    | x        |
+| 2024 |          | x (Node)   |     |              |     | x    | x (Bash)       | x (Oracle)       |             |     |        |     |            | x      |            |     |       |     | x      | x    | x        |
