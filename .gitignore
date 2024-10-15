@@ -1,6 +1,7 @@
 # Build Files
 target/
 Cargo.lock
+*.out
 
 # Settings
 .idea/
