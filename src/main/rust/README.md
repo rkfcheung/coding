@@ -10,3 +10,4 @@
 ## Videos
 
 * [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
+* [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course)
