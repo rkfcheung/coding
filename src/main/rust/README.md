@@ -12,6 +12,8 @@
 
 * [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
 * [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course)
+* [Hands-On Systems Programming with Rust](https://www.packtpub.com/en-gb/product/hands-on-systems-programming-with-rust-9781838822132)
+* [Hands-On Data Structures and Algorithms in Rust](https://www.packtpub.com/en-gb/product/hands-on-data-structures-and-algorithms-in-rust-9781839211942)
 
 ## References
 
