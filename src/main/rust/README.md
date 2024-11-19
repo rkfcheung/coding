@@ -19,3 +19,4 @@
 
 * [Rust Official Website](https://www.rust-lang.org)
 * [List of Rust Books](https://github.com/sger/RustBooks)
+* [Rust Learning](https://github.com/ctjhoa/rust-learning)
