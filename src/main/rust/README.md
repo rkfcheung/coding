@@ -11,6 +11,7 @@
 
 ## Videos
 
+* [Rust Programming Course for Beginners](https://youtu.be/MsocPEZBd-M)
 * [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
 * [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course)
 * [Hands-On Systems Programming with Rust](https://www.packtpub.com/en-gb/product/hands-on-systems-programming-with-rust-9781838822132)
