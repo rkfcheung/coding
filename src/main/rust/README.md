@@ -7,6 +7,7 @@
 * [Rust for Blockchain Application Development](https://www.packtpub.com/en-gb/product/rust-for-blockchain-application-development-9781837634644)
 * [Rust Web Development](https://www.manning.com/books/rust-web-development)
 * [Idiomatic Rust](https://www.manning.com/books/idiomatic-rust)
+* [Learn Rust in a Month of Lunches](https://www.manning.com/books/learn-rust-in-a-month-of-lunches)
 
 ## Videos
 
