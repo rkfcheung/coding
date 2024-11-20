@@ -8,6 +8,7 @@
 * [Rust Web Development](https://www.manning.com/books/rust-web-development)
 * [Idiomatic Rust](https://www.manning.com/books/idiomatic-rust)
 * [Learn Rust in a Month of Lunches](https://www.manning.com/books/learn-rust-in-a-month-of-lunches)
+* [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
 
 ## Videos
 
@@ -16,6 +17,7 @@
 * [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course)
 * [Hands-On Systems Programming with Rust](https://www.packtpub.com/en-gb/product/hands-on-systems-programming-with-rust-9781838822132)
 * [Hands-On Data Structures and Algorithms in Rust](https://www.packtpub.com/en-gb/product/hands-on-data-structures-and-algorithms-in-rust-9781839211942)
+* [Rust Programming Part 2](https://www.oreilly.com/library/view/rust-programming-part/9780138316839/)
 
 ## References
 
