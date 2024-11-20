@@ -45,7 +45,7 @@ I code, therefore I’m.
 
 ## Rust
 
-- Eager to learn Rust as a new coding skill.
+- Eager to [learn Rust](src/main/rust/README.md) as a new coding skill.
 - Sample Project:
   - [LeetCode Questions](https://github.com/rkfcheung/coding/tree/main/src/main/rust/src/leetcode)
 
