@@ -9,6 +9,7 @@
 * [Idiomatic Rust](https://www.manning.com/books/idiomatic-rust)
 * [Learn Rust in a Month of Lunches](https://www.manning.com/books/learn-rust-in-a-month-of-lunches)
 * [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust)
+* [Command-Line Rust](https://learning.oreilly.com/library/view/-/9781098109424/)
 
 ## Videos
 
