@@ -46,8 +46,9 @@ I code, therefore I’m.
 ## Rust
 
 - Eager to [learn Rust](src/main/rust/README.md) as a new coding skill.
-- Sample Project:
+- Sample Projects:
   - [LeetCode Questions](https://github.com/rkfcheung/coding/tree/main/src/main/rust/src/leetcode)
+  - [Ruserwation](https://github.com/rkfcheung/ruserwation)
 
 ## Solidity
 
