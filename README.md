@@ -59,7 +59,7 @@ I code, therefore I’m.
 
 ## Language Timeline
 
-| Year | HTML/CSS | JavaScript | PHP | ActionScript | C   | Java | Shell          | SQL              | VB.NET/VBA | C++ | MATLAB | C#  | ColdFusion | Python | Objective-C | R   | Swift | Lua | Kotlin | Rust | Solidity |
+| Year | HTML/CSS | JavaScript/TypeScript | PHP | ActionScript | C   | Java | Shell          | SQL              | VB.NET/VBA | C++ | MATLAB | C#  | ColdFusion | Python | Objective-C | R   | Swift | Lua | Kotlin | Rust | Solidity |
 | ---- | -------- | ---------- | --- | ------------ | --- | ---- | -------------- | ---------------- | ---------- | --- | ------ | --- | ---------- | ------ | ----------- | --- | ----- | --- | ------ | ---- | -------- |
 | 2001 | x        | x          | x   | x            | x   | x    | x (Bourne)     |                  |            |     |        |     |            |        |             |     |       |     |        |      |          |
 | 2002 | x        | x          | x   | x            | x   | x    | x (Bourne)     | x (MySQL)        | x          | x   |        |     |            |        |             |     |       |     |        |      |          |
@@ -84,4 +84,5 @@ I code, therefore I’m.
 | 2021 |          | x (React)  |     |              |     | x    | x (Bash)       | x (PostgreSQL)   |            |     |        |     |            | x      |             |     |       |     | x      |      |          |
 | 2022 |          | x (React)  |     |              |     | x    | x (Bash)       | x (PostgreSQL)   |            |     |        |     |            | x      |             |     |       |     | x      |      |          |
 | 2023 |          |            |     |              |     | x    | x (Bash)       | x (Oracle)       |            |     |        |     |            | x      |             |     |       |     | x      |      |          |
-| 2024 |          | x (Node)   |     |              | x   | x    | x (Bash)       | x (Oracle+MySQL) |            |     |        |     |            | x      |             |     |       |     | x      | x    | x        |
+| 2024 |          | x (Node)   |     |              |     | x    | x (Bash)       | x (Oracle+MySQL) |            |     |        |     |            | x      |             |     |       |     | x      | x    | x        |
+| 2025 |          | x (Node)   |     |              |     | x    | x (Bash)       | x (Oracle)       |            |     |        |     |            | x      |             |     |       |     |        | x    |          |
